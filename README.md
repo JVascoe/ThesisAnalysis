@@ -1,1 +1,2 @@
 # ThesisAnalysis
+Processing time is tested using a stopwatch. For each number of receipts tested (1-5), I tested the processing time five times and took the average of the results. The spreadsheet for the results is located in the Results folder. For mean confidence, I selected three receipts that covered a decent range of mean confidence and then analyzed why their mean confidences differed. The screenshot for the mean confidence of those three receipts is also located in the results folder.
